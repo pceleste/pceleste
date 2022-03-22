@@ -9,11 +9,6 @@
 
 ### Languages and Tools:
 
-<div align="left">
-  <a href="https://github.com/pceleste/pceleste.git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pceleste&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Celeste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Celeste-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
