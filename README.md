@@ -3,7 +3,7 @@
 ## I'm a Junior Developer, looking for new projects!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate in other projects
 - 🥅 2022 Goals: Learn more about web programming
 - ⚡ Fun fact: I love crossfit and play guitar
 
